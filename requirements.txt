@@ -1,0 +1,11 @@
+pymongo~=3.11.0
+pydantic~=2.6.3
+fastapi~=0.110.0
+uvicorn~=0.27.1
+python-dotenv~=1.0.1
+click-spinner~=0.1.10
+croniter~=1.4.1
+fastapi-utilities~=0.2.0
+greenlet~=3.0.3
+sqlalchemy~=2.0.28
+dnspython
